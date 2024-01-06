@@ -21,7 +21,7 @@ session_start();
     <!-- loading bar -->
     <script src="https://cdn.jsdelivr.net/npm/pace-js@latest/pace.min.js"></script>
     <link rel="stylesheet" href="./css/flash.css">
-    <title>Hotel blue bird "tung_suadoi laan thu 2"</title>
+    <title>Hotel blue bird "tung_suadoi laan thu 3"</title>
 </head>
 
 <body>
